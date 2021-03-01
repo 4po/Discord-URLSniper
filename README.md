@@ -13,7 +13,7 @@ DISCORD-URLSniper est un cadre moderne, qui permet de récupérer, voler une URL
 
 Come hang out on discord!
 
-[![Porchetta Industries](https://discordapp.com/api/guilds/736724457258745996/widget.png?style=banner3)](https://discord.gg/apo)
+[![APO MEDIA CENTER](https://i.imgur.com/sbrAvUq.gif)](https://discord.gg/apo)
 
 ## 𝐀𝐩𝐩𝐞𝐥 𝐚̀ 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧𝐬
 Je ne suis qu'une personne qui développe cela surtout pendant son temps libre, j'ai besoin d'avoir une vie en dehors des ordinateurs (idée radicale, je sais).
