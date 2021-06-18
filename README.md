@@ -1,4 +1,4 @@
-![](https://badgen.net/badge/DISCORD-URLSniper/4po/purple?icon=github)
+![](https://badgen.net/badge/DISCORD-URLSniper/FreiikDev/purple?icon=github)
 
 # DISCORD-URLSniper
 
